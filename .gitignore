@@ -1,0 +1,15 @@
+# Archivos y directorios generados automáticamente
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de configuración local (si tienes alguno)
+config.py
+
+# Archivos de registro y caché
+logs/
+*.log
+*.cache
+
+# Archivos y directorios específicos de Twilio
+twilio.json
